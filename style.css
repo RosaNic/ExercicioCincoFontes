@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(49, 49, 49);
+}
+
+.tipo1 {
+    font-family: 'Arial', serif;
+    color: aquamarine;
+}
+
+.tipo2 {
+   font-family: 'Times New Roman', sans-serif;
+   color: rgb(0, 255, 149);
+}
+
+
+.tipo3 {
+    font-family: 'Georgia', fantasy;
+    color: rgb(0, 156, 91);
+ }
+
+ .tipo4 {
+    font-family: 'Cedarville Cursive', cursive;
+    color: rgb(7, 193, 226);
+ }
+
+ .tipo5 {
+    font-family: 'impact', monospace;
+    color: rgb(0, 146, 172);
+ }
+
+.titulo {
+    text-align: center;
+    color: rgb(84, 241, 247);
+}
+.tituloo {
+    text-align: center;
+    color: magenta;
+}
